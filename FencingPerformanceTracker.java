@@ -1,7 +1,7 @@
 //my passion project
 //by: neha annambhotla
 //fencing performance tracker
-//assuming there are 6 rounds in a season
+//assuming there are rounds in a season
 
 import java.util.Scanner;
 import java.io.FileWriter;
@@ -88,4 +88,5 @@ public class FencingPerformanceTracker {
     scan.close();
   }
 }
+
     
